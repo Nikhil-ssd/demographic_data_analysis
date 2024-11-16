@@ -6,7 +6,7 @@ As an Excel expert, you need to perform the following tasks with the given datas
 
 #### Dataset Information
 
-This dataset consists of 195 rows and 5 columns namely 1) Country Name 2) Country Code 3) Birth Rate 4) Internet Users 5) Income Group in an Excel sheet.
+This dataset contained in DemographicData.xlsx consists of 195 rows and 5 columns namely 1) Country Name 2) Country Code 3) Birth Rate 4) Internet Users 5) Income Group in an Excel sheet.
 
 #### Questions
 1.	Create the name range for birth rate and income group. 
