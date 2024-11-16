@@ -64,8 +64,8 @@ Companies use demographic data to decide where to expand, market products, or in
 
 Step 1 : Download this project repository as a zip file. 
 Step 2 : Unzip the folder to your desired location 
-Step 3 : If you don't have MS Excel Installed, download it and then launch it or Upload it to Google Drive and open it using Google Sheets. 
-Step 4 : Navigate to this project folder and open Excel Project.xlsx
+Step 3 : If you don't have MS Excel Installed, download it and then launch it. 
+Step 4 : Navigate to this project folder and open Excel Project.xlsx or Upload it to Google Drive and open it using Google Sheets.
 Step 5 : Go through the Questions in the Questions.docx or Questions.png and check their results in the Excel sheet.
 
 
